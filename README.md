@@ -2,4 +2,4 @@
 - 👀 I’m interested in Crypto Development
 - 🌱 I’m currently learning Solidity and Solana Programming
 - 💞️ I’m looking to collaborate on any Crypto Project
-- 📫 Reach me on email: olcarmontzaragoza@gmail.com
+- 📫 Reach me through olcarmontzaragoza@gmail.com

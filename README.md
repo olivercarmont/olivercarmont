@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Oliver Carmont
+- 👀 I’m interested in Crypto Development
+- 🌱 I’m currently learning Solidity and Solana Programming
+- 💞️ I’m looking to collaborate on any Crypto Project
+- 📫 How to reach me olcarmontzaragoza@gmail.com

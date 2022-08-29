@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Oliver Carmont
-- 👀 I’m interested in Clean-tech applications
-- 🌱 I’m currently learning AWS
-- 💞️ I’m looking to collaborate on any Envirionmental Project!
+- 🌱 I’m interested in Clean-tech applications
+- 👨‍💻️ I’m currently learning AWS
+- 💚 I’m looking to collaborate on any Envirionmental Project!
 - 📫 Reach me through ocarmont@berkeley.edu

@@ -3,11 +3,11 @@
 
 - 👯 I’m looking to collaborate on **climate tech projects!**
 
-- 👨‍💻 All of my projects are available at [https://olivercarmont.com](https://olivercarmont.com)
+- 👨‍💻 Find my projects at [https://olivercarmont.com](https://olivercarmont.com)
 
-- 📫 How to reach me **ocarmont@berkeley.edu**
+- 📫 Reach me at **ocarmont@berkeley.edu**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1yDJ4THylqC1Y2wWSrtkVLzdMARlM8A4c/edit](https://docs.google.com/document/d/1yDJ4THylqC1Y2wWSrtkVLzdMARlM8A4c/edit)
+- 📄 Know about my experiences [MY CV](https://tinyurl.com/olivercarmontCV)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -3,8 +3,11 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/oliver-carmont/">
-    <img height="35px" style="margin-top:20px; margin-left:30px;" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+  <a href="https://www.linkedin.com/in/oliver-carmont/" style="margin-top:30px; margin-left:30px;">
+    <img height="35px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+  </a>
+   <a>
+    <img height="35px" />
   </a>
   <a href="https://www.youtube.com/@olivercarmont3792">
     <img height="35px" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" />

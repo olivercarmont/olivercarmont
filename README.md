@@ -4,7 +4,9 @@
 - 🌿 I’m looking to collaborate on **climate tech projects!**
 
 ```diff
-- **climate tech projects!** in red
+@@ **climate tech projects!** in red
+```
+
 
 - 👨‍💻 Find my projects on my **[Personal Website](https://olivercarmont.com)**
 

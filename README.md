@@ -2,6 +2,10 @@
   <img src="https://res.cloudinary.com/netzero/image/upload/v1669954903/boy_bize1o.png" width="100"/>
 </div>
 
+ <a>
+    <img height="25px" />
+  </a>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/oliver-carmont/">
     <img height="35px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />

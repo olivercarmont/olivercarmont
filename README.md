@@ -7,7 +7,7 @@
 
 - 📫 Reach me at **ocarmont@berkeley.edu**
 
-- 📄 Know about my experiences [MY CV](https://tinyurl.com/olivercarmontCV)
+- 📄 Know about my experiences **[MY CV](https://tinyurl.com/olivercarmontCV)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

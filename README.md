@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Oliver</h1>
 <h3 align="center">A passionate full-stack developer in berkeley</h3>
 
-- 👯 I’m looking to collaborate on **climate tech projects!**
+- 🌿 I’m looking to collaborate on **climate tech projects!**
 
-- 👨‍💻 Find my projects at [https://olivercarmont.com](https://olivercarmont.com)
+- 👨‍💻 Find my projects on my **[Personal Website](https://olivercarmont.com)**
 
 - 📫 Reach me at **ocarmont@berkeley.edu**
 
-- 📄 Know about my experiences **[MY CV](https://tinyurl.com/olivercarmontCV)**
+- 📄 Know about my experiences **[Oliver's CV](https://tinyurl.com/olivercarmontCV)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

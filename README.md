@@ -3,11 +3,6 @@
 
 - 🌿 I’m looking to collaborate on **climate tech projects!**
 
-```diff
-@@ **climate tech projects!** in purple (and bold)@@
-```
-
-
 - 👨‍💻 Find my projects on my **[Personal Website](https://olivercarmont.com)**
 
 - 📫 Reach me at **ocarmont@berkeley.edu**

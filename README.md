@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Oliver</h1>
 <h3 align="center">A passionate full-stack developer in berkeley</h3>
 
-- 🌿 I’m looking to collaborate on ![#f03c15](**climate tech projects!**)
+- 🌿 I’m looking to collaborate on **climate tech projects!**
 
-![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
+```diff
+- **climate tech projects!** in red
 
 - 👨‍💻 Find my projects on my **[Personal Website](https://olivercarmont.com)**
 

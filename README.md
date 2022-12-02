@@ -2,7 +2,7 @@
   <img src="https://res.cloudinary.com/netzero/image/upload/v1669954903/boy_bize1o.png" width="100"/>
 </div>
 
-## Oliver Carmont
+# Oliver Carmont
 
 <div align="center">
   <a href="https://www.linkedin.com/in/oliver-carmont/">
@@ -16,6 +16,6 @@
   </a>
 </div>
 
-# Hi There 👋 My name is Oliver and I'm a Sophomore Studying CS at UC Berkeley. My background lies in web and full-stack development and very passioante about Climate Tech! 🌿
+### Hi There 👋 My name is Oliver and I'm a Sophomore Studying CS at UC Berkeley. My background lies in web and full-stack development and very passioante about Climate Tech! 🌿
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olivercarmont&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

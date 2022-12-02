@@ -13,5 +13,6 @@
     <img height="35px" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" />
   </a>
 </div>
-
+<div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olivercarmont&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>

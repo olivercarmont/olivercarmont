@@ -2,9 +2,7 @@
   <img src="https://res.cloudinary.com/netzero/image/upload/v1669954903/boy_bize1o.png" width="100"/>
 </div>
 
- <a>
-    <img height="5px" />
-  </a>
+ <a></a>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/oliver-carmont/">

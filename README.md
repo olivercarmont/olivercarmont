@@ -3,7 +3,7 @@
 
 - 🌿 I’m looking to collaborate on ![#f03c15](**climate tech projects!**)
 
-(https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
+![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
 
 - 👨‍💻 Find my projects on my **[Personal Website](https://olivercarmont.com)**
 

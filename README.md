@@ -16,6 +16,6 @@
 
 <h2 align="center">Oliver Carmont</h2>
 
-<p align="center">Hi There 👋 My name is Oliver and I'm a Sophomore Studying CS at UC Berkeley. My background lies in web and full-stack development and very passioante about Climate Tech! 🌿</p>
+<p align="center" height="30%">Hi There 👋 My name is Oliver and I'm a Sophomore Studying CS at UC Berkeley. My background lies in web and full-stack development and very passioante about Climate Tech! 🌿</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olivercarmont&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

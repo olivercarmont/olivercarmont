@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oliver</h1>
 <h3 align="center">A passionate full-stack developer in berkeley</h3>
 
-- 🌿 I’m looking to collaborate on ![#f03c15]**climate tech projects!**
+- 🌿 I’m looking to collaborate on ![#f03c15](**climate tech projects!**)
 
 - 👨‍💻 Find my projects on my **[Personal Website](https://olivercarmont.com)**
 

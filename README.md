@@ -3,7 +3,7 @@
 | Repo                                             | Category   | Description |
 | --------------------------------------------------- | ---------- | ----------- |
 | [**European Internships 2023/2024**](https://tabletomarkdown.com/) <br /> ☆⁠ ⁠0 | Internships       | European internships for the fall 2023 / spring 2024 season         |
-| [**AI Startups Finder**](https://tabletomarkdown.com/) <br /> ☆⁠ ⁠0 | AI       | Every single AI startup I could find         |
+<!--| [**AI Startups Finder**]() <br /> ☆⁠ ⁠0 | AI       | Every single AI startup I could find         |-->
 
 # Personal Projects
 

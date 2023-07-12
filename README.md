@@ -16,4 +16,4 @@ UC Berkeley Junior. Nurturing Student Innovation at Cal Hacks. Developing Audio 
 | --------------------------------------------------- | ---------- | ----------- |
 | [**Youtube Channel**](https://www.youtube.com/@olivercarmont3792) | YouTube       | My YouTube channel for coding-related tutorials         |
 | [**Nasdaq RL Trading Bot**](https://github.com/olivercarmont/RL-Nasdaq-Trading-Alg) | AI       | TensorFlow-based Nasdaq 100 trading bot |
-| [**Basic Langchain App**](https://github.com/olivercarmont/RL-Nasdaq-Trading-Alg) | AI       | Simple prompt engine with message history using Langchain |
+| [**Basic Langchain App**](https://github.com/olivercarmont/basic-langchain-app) | AI       | Simple prompt engine with message history using Langchain |

@@ -7,7 +7,7 @@ UC Berkeley Junior. Nurturing Student Innovation at Cal Hacks. Developing Audio 
 
 | Repo                                             | Category   | Description |
 | --------------------------------------------------- | ---------- | ----------- |
-| [**European Internships 2023/2024**](https://github.com/olivercarmont/european-internships-2023-2024) <br /> ☆⁠ ⁠4 | Internships       | European internships for the fall 2023 / spring 2024 season         |
+| [**European Internships 2023/2024**](https://github.com/olivercarmont/european-internships-2023-2024) <br /> ☆⁠ ⁠5 | Internships       | European internships for the fall 2023 / spring 2024 season         |
 <!--| [**AI Startups Finder**]() <br /> ☆⁠ ⁠0 | AI       | Every single AI startup I could find         |-->
 
 # Personal Projects
@@ -16,3 +16,4 @@ UC Berkeley Junior. Nurturing Student Innovation at Cal Hacks. Developing Audio 
 | --------------------------------------------------- | ---------- | ----------- |
 | [**Youtube Channel**](https://www.youtube.com/@olivercarmont3792) | YouTube       | My YouTube channel for coding-related tutorials         |
 | [**Nasdaq RL Trading Bot**](https://github.com/olivercarmont/RL-Nasdaq-Trading-Alg) | AI       | TensorFlow-based Nasdaq 100 trading bot |
+| [**Basic Langchain App**](https://github.com/olivercarmont/RL-Nasdaq-Trading-Alg) | AI       | Simple prompt engine with message history using Langchain |

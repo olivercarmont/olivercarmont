@@ -1,3 +1,8 @@
+
+UC Berkeley Junior. Nurturing Student Innovation at Cal Hacks. Developing Audio Technology at Amazon. Current interests include AWS and Algorithmic Trading
+
+[Linkedin](https://www.linkedin.com/in/oliver-carmont/)         [Resume](https://drive.google.com/file/d/1CeqC8r2vCyB9xczGwSNDz79BJ2NPgaDu/view?usp=sharing)
+
 # Info Hubs
 
 | Repo                                             | Category   | Description |

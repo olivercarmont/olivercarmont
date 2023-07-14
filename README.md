@@ -7,7 +7,7 @@ UC Berkeley Junior. Nurturing Student Innovation at Cal Hacks. Developing Audio 
 
 | Repo                                             | Category   | Description |
 | --------------------------------------------------- | ---------- | ----------- |
-| [**European Internships 2023/2024**](https://github.com/olivercarmont/european-internships-2023-2024) <br /> ☆⁠ ⁠5 | Internships       | European internships for the fall 2023 / spring 2024 season         |
+| [**European Internships 2023/2024**](https://github.com/olivercarmont/european-internships-2023-2024) <br /> ☆⁠ ⁠9 | Internships       | European internships for the fall 2023 / spring 2024 season         |
 <!--| [**AI Startups Finder**]() <br /> ☆⁠ ⁠0 | AI       | Every single AI startup I could find         |-->
 
 # Personal Projects

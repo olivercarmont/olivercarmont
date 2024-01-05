@@ -7,7 +7,7 @@
 
 | Repo                                             | Category   | Description |
 | --------------------------------------------------- | ---------- | ----------- |
-| [**YouTube <br />"My ML Engineer Journey"**](https://github.com/olivercarmont/YouTube/tree/main) <br /> ☆⁠ ⁠0 | YouTube       | My YouTube channel for ML Engineer-related tutorials           |
+| [**YouTube**](https://github.com/olivercarmont/YouTube/tree/main) <br /> ☆⁠ ⁠2 | YouTube       | My YouTube channel for ML Engineer-related tutorials           |
 | [**European Internships 2023/2024**](https://github.com/olivercarmont/european-internships-2023-2024) <br /> ☆⁠ ⁠9 | Internships       | European internships for the fall 2023 / spring 2024 season        |
 
 <!--| [**AI Startups Finder**]() <br /> ☆⁠ ⁠0 | AI       | Every single AI startup I could find         |-->

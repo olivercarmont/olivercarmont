@@ -16,5 +16,6 @@
 
 | Project                                             | Category   | Description |
 | --------------------------------------------------- | ---------- | ----------- |
+| [**YouTube Video Summarizer**](https://github.com/olivercarmont/youtube-video-summarizer-app) | AI       | Streamlit App For Summarizing Videos |
 | [**NASDAQ-RL Trading Bot**](https://github.com/olivercarmont/RL-Nasdaq-Trading-Alg) | AI       | TensorFlow-based Nasdaq-100 trading bot |
 | [**Basic Langchain App**](https://github.com/olivercarmont/basic-langchain-app) | AI       | Simple prompt engine with message history using Langchain |

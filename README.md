@@ -7,15 +7,6 @@
 
 | Repo                                             | Category   | Description |
 | --------------------------------------------------- | ---------- | ----------- |
+| [**Kynos.cc**](https://kynos.cc) <br /> ☆⁠ ⁠0 | Applied AI       | Stock Chart Generator           |
 | [**YouTube**](https://github.com/olivercarmont/YouTube/tree/main) <br /> ☆⁠ ⁠2 | YouTube       | My YouTube channel for ML Engineer-related tutorials           |
 | [**European Internships 2023/2024**](https://github.com/olivercarmont/european-internships-2023-2024) <br /> ☆⁠ ⁠9 | Internships       | European internships for the fall 2023 / spring 2024 season        |
-
-<!--| [**AI Startups Finder**]() <br /> ☆⁠ ⁠0 | AI       | Every single AI startup I could find         |-->
-
-# Personal Projects
-
-| Project                                             | Category   | Description |
-| --------------------------------------------------- | ---------- | ----------- |
-| [**YouTube Video Summarizer**](https://github.com/olivercarmont/youtube-video-summarizer-app) | AI       | Streamlit App For Summarizing Videos |
-| [**NASDAQ-RL Trading Bot**](https://github.com/olivercarmont/RL-Nasdaq-Trading-Alg) | AI       | TensorFlow-based Nasdaq-100 trading bot |
-| [**Basic Langchain App**](https://github.com/olivercarmont/basic-langchain-app) | AI       | Simple prompt engine with message history using Langchain |

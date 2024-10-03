@@ -1,4 +1,4 @@
-> Senior at Berkeley. Trying to figure things out. Running Cal Hacks in my free time.
+> Senior at Berkeley. Trying to figure things out. Running Cal Hacks in my free time 🐻
 
 [**Website**](https://oliver.cx)  ·  [**YouTube**](https://www.youtube.com/@olivercarmont)  · [**Linkedin**](https://www.linkedin.com/in/oliver-carmont/)
 

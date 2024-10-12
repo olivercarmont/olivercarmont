@@ -2,7 +2,7 @@
 
 [**oliver.cx**](https://oliver.cx)  ·  [**youtube**](https://www.youtube.com/@olivercarmont)  · [**linkedin**](https://www.linkedin.com/in/oliver-carmont/)
 
-# Hub
+# relevant repos
 
 | website                                             | Repository                                             | Category   | Description |
 | --------------------------------------------------- | ------------------------------------------------------- | ---------- | ----------- |

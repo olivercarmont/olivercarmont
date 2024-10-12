@@ -1,11 +1,12 @@
-> Senior at Berkeley. Trying to figure things out. Running Cal Hacks in my free time :)
+> senior at berkeley. figuring things out. running cal hacks in my free time :)
 
 [**oliver.cx**](https://oliver.cx)  ·  [**youtube**](https://www.youtube.com/@olivercarmont)  · [**linkedin**](https://www.linkedin.com/in/oliver-carmont/)
 
 # Hub
 
-| Name                                             | Category   | Description |
-| --------------------------------------------------- | ---------- | ----------- |
-| [**kynos.cc**](https://kynos.cc) <br /> ☆⁠ ⁠0 | applied ai       | a stock chart generator           |
-| [**youtube**](https://github.com/olivercarmont/YouTube/tree/main) <br /> ☆⁠ ⁠1 | youtube       | my ml youtube channel         |
-| [**cubstart**](https://github.com/cubstart/website) <br /> ☆⁠ ⁠1 | berkeley       | cubtart decal's website        |
+| website                                             | Repository                                             | Category   | Description |
+| --------------------------------------------------- | ------------------------------------------------------- | ---------- | ----------- |
+| [**kynos.cc**](https://kynos.cc) <br /> ☆⁠ ⁠0 | [**GitHub**](https://github.com/olivercarmont/kynos) | wrapper      | a stock chart generator     
+| [**news aggregator**](https://news-aggregator-ui.netlify.app/) <br /> ☆⁠ ⁠0 | [**GitHub**](https://github.com/olivercarmont/rust-news-aggregator-api) | rust/aws      | rust api for fetching news data      |
+| [**youtube**](https://www.youtube.com/@olivercarmont) <br /> ☆⁠ ⁠1 | [**GitHub**](https://github.com/olivercarmont/YouTube) | youtube       | my ml youtube channel         |
+| [**cubstart**](https://cubstart.com/) <br /> ☆⁠ ⁠1 | [**GitHub**](https://github.com/cubstart/website) | berkeley       | cubstart decal's website        |

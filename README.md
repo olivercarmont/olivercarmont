@@ -1,6 +1,6 @@
 > Senior at Berkeley. Trying to figure things out. Running Cal Hacks in my free time :)
 
-[**Website**](https://oliver.cx)  ·  [**YouTube**](https://www.youtube.com/@olivercarmont)  · [**Linkedin**](https://www.linkedin.com/in/oliver-carmont/)
+[**oliver.cx**](https://oliver.cx)  ·  [**youtube**](https://www.youtube.com/@olivercarmont)  · [**linkedin**](https://www.linkedin.com/in/oliver-carmont/)
 
 # Hub
 

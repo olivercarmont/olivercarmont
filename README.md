@@ -9,4 +9,4 @@
 | [**kynos.cc**](https://kynos.cc) <br /> ☆⁠ ⁠0 | [**GitHub**](https://github.com/olivercarmont/kynos) | wrapper      | a stock chart generator     
 | [**news aggregator**](https://news-aggregator-ui.netlify.app/) <br /> ☆⁠ ⁠0 | [**GitHub**](https://github.com/olivercarmont/rust-news-aggregator-api) | rust/aws      | rust api for fetching news data      |
 | [**youtube**](https://www.youtube.com/@olivercarmont) <br /> ☆⁠ ⁠1 | [**GitHub**](https://github.com/olivercarmont/YouTube) | youtube       | my ml youtube channel         |
-| [**cubstart**](https://cubstart.com/) <br /> ☆⁠ ⁠1 | [**GitHub**](https://github.com/cubstart/website) | berkeley       | cubstart decal's website        |
+| [**cubstart**](https://cubstart.com/) <br /> ☆⁠ ⁠2 | [**GitHub**](https://github.com/cubstart/website) | berkeley       | cubstart decal's website        |

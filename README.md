@@ -6,7 +6,7 @@
 
 | website                                             | Repository                                             | Category   | Description |
 | --------------------------------------------------- | ------------------------------------------------------- | ---------- | ----------- |
-| [**kynos.cc**](https://kynos.cc) <br /> ☆⁠ ⁠0 | [**repo**](https://github.com/olivercarmont/kynos) | nextjs      | a stock chart generator     
+| [**kynos.cc**](https://kynos.cc) <br /> ☆⁠ ⁠0 | [**repo**](https://github.com/olivercarmont/kynos) | next js      | a stock chart generator     
 | [**options api**](https://options-api-ui.netlify.app) <br /> ☆⁠ ⁠0 | [**repo**](https://github.com/olivercarmont/option-contracts-api) | rust/aws      | pulls call/put option data
 | [**news aggregator**](https://news-aggregator-ui.netlify.app/) <br /> ☆⁠ ⁠0 | [**repo**](https://github.com/olivercarmont/rust-news-aggregator-api) | rust/aws      | rust api for fetching news data      |
 | [**youtube**](https://www.youtube.com/@olivercarmont) <br /> ☆⁠ ⁠1 | [**repo**](https://github.com/olivercarmont/YouTube) | youtube       | my ml youtube channel         |

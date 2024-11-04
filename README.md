@@ -6,6 +6,7 @@
 
 | website                                             | Repository                                             | Category   | Description |
 | --------------------------------------------------- | ------------------------------------------------------- | ---------- | ----------- |
+| [**carbonview**](https://carbonview.netlify.app) <br /> ☆⁠ ⁠0 | [**repo**](https://github.com/olivercarmont/carbon-view) | next js      | visualizing company emissions data  
 | [**kynos.cc**](https://kynos.cc) <br /> ☆⁠ ⁠0 | [**repo**](https://github.com/olivercarmont/kynos) | next js      | a stock chart generator     
 | [**clyo.lat**](https://clyo.lat) <br /> ☆⁠ ⁠0 | [**repo**](https://github.com/olivercarmont/clyo) | rust/aws      | option contracts data ui
 | [**news aggregator**](https://news-aggregator-ui.netlify.app/) <br /> ☆⁠ ⁠0 | [**repo**](https://github.com/olivercarmont/rust-news-aggregator-api) | rust/aws      | rust api for fetching news data      |

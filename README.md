@@ -1,4 +1,4 @@
-> senior at berkeley. figuring things out. running cal hacks in my free time :)
+> engineer at vercel. previously @ berkeley. passion for building <3
 
 [**oliver.cx**](https://oliver.cx)  ·  [**youtube**](https://www.youtube.com/@olivercarmont)  · [**linkedin**](https://www.linkedin.com/in/oliver-carmont/)
 
